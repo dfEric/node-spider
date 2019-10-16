@@ -1,0 +1,12 @@
+{
+  "name": "node-spider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dfEric/node-spider.git",
+  "author": "eric",
+  "license": "GPL-3.0",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
